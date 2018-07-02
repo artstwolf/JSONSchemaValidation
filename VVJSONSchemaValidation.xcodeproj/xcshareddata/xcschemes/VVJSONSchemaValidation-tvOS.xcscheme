@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "7D8EDAB61D3F9582005557ED"
-               BuildableName = "VVJSONSchemaValidation-tvOS.framework"
+               BuildableName = "VVJSONSchemaValidation.framework"
                BlueprintName = "VVJSONSchemaValidation-tvOS"
                ReferencedContainer = "container:VVJSONSchemaValidation.xcodeproj">
             </BuildableReference>
@@ -46,7 +46,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "7D8EDAB61D3F9582005557ED"
-            BuildableName = "VVJSONSchemaValidation-tvOS.framework"
+            BuildableName = "VVJSONSchemaValidation.framework"
             BlueprintName = "VVJSONSchemaValidation-tvOS"
             ReferencedContainer = "container:VVJSONSchemaValidation.xcodeproj">
          </BuildableReference>
@@ -64,7 +64,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "7D8EDAB61D3F9582005557ED"
-            BuildableName = "VVJSONSchemaValidation-tvOS.framework"
+            BuildableName = "VVJSONSchemaValidation.framework"
             BlueprintName = "VVJSONSchemaValidation-tvOS"
             ReferencedContainer = "container:VVJSONSchemaValidation.xcodeproj">
          </BuildableReference>
